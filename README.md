@@ -1,12 +1,19 @@
 # Prak_Python_UTS_Semester-2
 
 Script tersebut merupakan program Python yang menggunakan library mysql.connector untuk menghubungkan dan memanipulasi database MySQL. Script tersebut mengakses database dengan nama 'db_sales_V3922006' di server localhost, menggunakan user 'root' tanpa password.
+
 Kemudian di program ini ada beberapa fungsi, anatar lain :
+
 Insert data: untuk menambahkan data baru ke tabel 'data_stok_barang'.
+
 Show data: untuk menampilkan seluruh data yang ada di tabel 'data_stok_barang'.
+
 Update data: untuk mengubah data yang sudah ada di tabel 'data_stok_barang'.
+
 Hapus data: untuk menghapus data yang sudah ada di tabel 'data_stok_barang'.
+
 Cari data: untuk mencari data berdasarkan Id_Barang di tabel 'data_stok_barang'.
+
 Keluar: untuk keluar dari program.
 
 Setelah itu di program selanjutnya ada bebrapa menu yaitu :
